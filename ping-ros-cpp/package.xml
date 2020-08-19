@@ -1,0 +1,14 @@
+<package format="2">
+  <name>ping_ros_cpp</name>
+  <version>0.0.1</version>
+  <description>
+    This package prints to stdout the turn around time to a coppeliaSim model. 
+  </description>
+  <maintainer email="jairomer@protonmail.com">jairomer@protonmail</maintainer>
+  <license>Beerware</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+
+</package>
