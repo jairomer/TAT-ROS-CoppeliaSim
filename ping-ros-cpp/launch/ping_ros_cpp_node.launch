@@ -1,0 +1,6 @@
+ 
+<launch>
+
+  <node name="ping_ros_cpp_node" pkg="ping_ros_cpp" type="ping_ros_cpp_node" respawn="false" output="screen"></node>
+
+</launch>
