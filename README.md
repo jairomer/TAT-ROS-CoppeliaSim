@@ -13,8 +13,11 @@ pong-coppeliaSIM: Code running in CoppeliaSim that pong's a {data=true} message 
 ping-ros-cpp: Sends a {data=false} message to `\CoppeliaSim\pong` and measures the time until the callback on a {data=true} message arrives, it then prints values as a csv in the standard output of the node. 
 This node will ping 500 times by default. 
 
+<<<<<<< HEAD
 ![sample](ping_pong.png "Diagram of a single sample.")
 
+=======
+>>>>>>> 2b5523169c623b94a82e4ef743f4c60b4c5f7e9a
 ## Why? 
 
 I needed to get some measurements for my final undergraduate thesis in 2020. 
